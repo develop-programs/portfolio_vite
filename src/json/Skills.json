@@ -1,0 +1,106 @@
+{
+  "frontend": [
+    {
+      "name": "HTML",
+      "logo": "/html5.svg"
+    },
+    {
+      "name": "CSS",
+      "logo": "/css3.svg"
+    },
+    {
+      "name": "JavaScript",
+      "logo": "/js.svg"
+    },
+    {
+      "name": "TypeScript",
+      "logo": "/typescript.svg"
+    },
+    {
+      "name": "React",
+      "logo": "/reactjs.svg"
+    },
+    {
+      "name": "Next.js",
+      "logo": "/nextjs2.svg"
+    },
+    {
+      "name": "Vite",
+      "logo": "/vite.svg"
+    },
+    {
+      "name": "Tailwind",
+      "logo": "/tailwindcss.svg"
+    },
+    {
+      "name": "Shadcn",
+      "logo": "/shadcnui.svg"
+    },
+    {
+      "name": "redux",
+      "logo": "/redux.svg"
+    }
+  ],
+  "Backend": [
+    {
+      "name": "Node.js",
+      "logo": "/nodejs.svg"
+    },
+    {
+      "name": "Express",
+      "logo": "/express.svg"
+    },
+    {
+      "name": "MongoDB",
+      "logo": "/mongodb.svg"
+    },
+    {
+      "name": "MySQL",
+      "logo": "/mysql.svg"
+    },
+    {
+      "name": "PostgreSQL",
+      "logo": "/postgresql.svg"
+    }
+  ],
+  "Graphics": [
+    {
+      "name": "Figma",
+      "logo": "/Figma.svg"
+    },
+    {
+      "name": "Photoshop",
+      "logo": "/ps.svg"
+    },
+    {
+      "name": "Illustrator",
+      "logo": "/ai.svg"
+    },
+    {
+      "name": "AdobeXD",
+      "logo": "/xd.svg"
+    }
+  ],
+  "Frameworks": [
+    {
+      "name": "Firebase",
+      "logo": "/firebase.svg"
+    },
+    {
+      "name": "Framer Motion",
+      "logo": "/framer.svg"
+    },
+    {
+      "name": "aws",
+      "logo": "/aws.svg"
+    },
+    {
+      "name": "Docker",
+      "logo": "/docker.svg"
+    },
+    {
+      "name": "Stream",
+      "logo": "/stream.svg"
+    }
+  ]
+}
